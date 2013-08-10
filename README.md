@@ -1,6 +1,6 @@
 Get Event Information
   
-	Get All Mambers
+	Get All Members
 		
 		Accepted
 		Maybe
